@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "building-materials-dealer-software",
+  "description": "Building Materials Dealer Software — Trading Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Building materials dealer POS/ERP for cement, rods, tiles, credit sales, and delivery. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "trading",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/building-materials-dealer-software"
+}
